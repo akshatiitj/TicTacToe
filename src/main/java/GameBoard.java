@@ -23,4 +23,13 @@ public class GameBoard {
     public void setGameBoard(int[] playerInput, char gameCharacter) {
         this.gameBoard[playerInput[0]][playerInput[1]] = gameCharacter;
     }
+
+    public void showGameBoard() {
+        for (int ii = 0; ii < 3; ii++) {
+            for (int jj = 0; jj < 3; jj++) {
+                System.out.print(this.gameBoard[ii][jj]);
+            }
+            System.out.print('\n');
+        }
+    }
 }

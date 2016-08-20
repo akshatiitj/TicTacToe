@@ -1,9 +1,16 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import static org.hamcrest.CoreMatchers.instanceOf;
+
 public class GameBoardTest {
 
     GameBoard gameBoard = new GameBoard();
+
+    @Test
+    public void testGameBoard() {
+        Assert.assertThat(gameBoard, instanceOf(GameBoard.class));
+    }
 
     @Test
     public void testcheckBoundary1() {
