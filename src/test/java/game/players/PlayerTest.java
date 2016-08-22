@@ -1,13 +1,15 @@
+package game.players;
+
 import org.junit.Assert;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.instanceOf;
 
-public class GamePlayerClass {
-    GamePlayer gamePlayer = new GamePlayer();
+public class PlayerTest {
+    Player player = new Player('X');
 
     @Test
     public void testGamePlayer() {
-        Assert.assertThat(gamePlayer, instanceOf(GamePlayer.class));
+        Assert.assertThat(player, instanceOf(Player.class));
     }
 }

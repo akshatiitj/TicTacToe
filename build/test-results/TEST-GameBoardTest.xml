@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GameBoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-08-20T14:36:03" hostname="Somebodys-MacBook-Pro.local" time="0.003">
+<testsuite name="GameBoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-08-21T12:58:21" hostname="Somebodys-MacBook-Pro.local" time="0.004">
   <properties/>
   <testcase name="testcheckBoundary1" classname="GameBoardTest" time="0.001"/>
   <testcase name="testcheckBoundary2" classname="GameBoardTest" time="0.0"/>

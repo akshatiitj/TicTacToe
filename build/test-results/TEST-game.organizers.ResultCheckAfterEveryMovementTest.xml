@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="game.organizers.ResultCheckAfterEveryMovementTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2016-08-22T04:09:00" hostname="Somebodys-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="testResultCheckAfterEveryMovement" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult1" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult2" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.001"/>
+  <testcase name="testCheckResult3" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.001"/>
+  <testcase name="testCheckResult4" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult5" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult6" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.001"/>
+  <testcase name="testCheckResult7" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult8" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <testcase name="testCheckResult9" classname="game.organizers.ResultCheckAfterEveryMovementTest" time="0.0"/>
+  <system-out><![CDATA[Xis Victorious
+Xis Victorious
+Xis Victorious
+Xis Victorious
+Xis Victorious
+Xis Victorious
+Xis Victorious
+Xis Victorious
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
